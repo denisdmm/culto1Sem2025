@@ -2,7 +2,7 @@
   "cultos": [
     {
       "id": 1,
-      "ativo": true,
+      "ativo": false,
       "ano": 2025,
       "nome": "Culto IC Colina",
       "descricao": "Mensagem:Quaresma Páscoa",
